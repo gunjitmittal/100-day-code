@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ornate-fragment-353912",
+  "private_key_id": "6f49eb85fd58eb4b5939423a6f3f475416a9a9f4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCs54vogmbQ266n\nm6c5ZCf8cEOyEYUZkbIFQkLVnUxFftQEzgzYnGQHnvrWaz3qfDeBteaDj70xh2Nj\nsgr8+MiO+Yq26FseXPOEQn3sGzsMoCUAZkjYfhyezCfIHmrFwXQeOBIZAI91A64r\nRoFcu/BbD9yOF9qkr0F3rS5fvOfKP3fqJoHZkPFZP983d8HR9gbiW8TUwoF8osfD\nuwL4ifDMq7R4msCAgGi3MS+7kw8hpZsVEiqxMUQpiJYeQJIq0/YincKHuc3thht7\nfNwdR+BZObOWJEwu7Dka+pspePAEcXp6R0K4E9xE6emg4BVPSd2Lh/SHySEk5kRU\nCGjedC4dAgMBAAECggEAON0v0KhuSvsszhetX/0V/3omcV48sWOOshcQJvPD/UkQ\nToI7jFOmvDDnWvRLGR6AHMsnhBYWST83CzcnUPo673aXTb9OFEbKmbFKe4ebHHRg\npuh8xaJ4JCuNW83RHLeaSkPzg8CA7aFnuvjFm6t9iV1Gkn663BV9SPAuQ7M7YfKB\nqnh7jJSJFcdbiSI8o44ytoFWiL85voVyjRNIOH3m0HBUkSn13PKRgoPlunSpPHoU\nl/ODHHdjERY52iwCgCZga5Y7yLdfniXMyUHZPs/SGIuyA5hYu+WmH8vY6gk8zp14\nZbrxraDpedVLI6z+WHdazDbkcT9NbDmGtyiaX24D+wKBgQDnRrbTDZqrcr3iAf03\niMr10gGvH1hOxkqtR/QzEOg58AYO0W8zjdzDU0vqZ5F35/K3ZNi3h5bb1oh5eYbd\n8IuyvzDcHJWgw3LBQlwJViweQNubdt1PENe/Q8ON4uWvsW4BvfSZKZpjehUoKZc7\ntmlAu1zxX85YtfuIhcDk0tuB8wKBgQC/Y2KwTGjMkyQNgsGBKRVT6dzNIXLi89TP\nQGvSViA6nTVBxRhPD8T5f8py3jB/keKHZoMKp0EhZ4n5TavmgL2X8DBWsMDFM3c2\nb5EYOqUv3i67eAn27rJHc41MGMSjss6/YtcdTp1OBlVxJS+udXfqd4fPCtXgtdyC\n2GzB0D2DrwKBgEiAiZXWQPOYb+BnITuEnaO8ZxzAJc3kKcrysKJFnZd0IGIK0+KE\niX2OIlFkkFzXkOZfLfUzA179fSEfsODopNKvTyDhsSKJwvLE29dtdT0yteWhuLUt\noYTrOGXFiJ2wcL0JEKHnQegHgJRrnWZxw8MwOW3NzAFRY34j+BmD5J5zAoGANw57\nJGZGu5sUgwJ7chGEfihHiYc2yo0ESj6pBdAa42G4IVx2mr/ZlUCq15KNdxVbikH2\nLolg1iA388zhR6T/ZYcGENo2CkS85Z8AqWytenC7Ftj4XN3b0WwvWJXDc6gLi8j+\nQwMLg5eU2sCsz84hGgUav3fJgSQv9EAYQUULfScCgYB9IcrKiguZnW/+DAplVT1N\n2Wonr1eK7MSttlNWi3RYsCqtsjoMeHy4KGtRS14KDyLXEMdciPnLEis/Qsfh1krw\nDc7x6s7CKDc9xUTEBdJGlYKSJDonAslegbL1Xj6gaioJvgQugUcJEpkRJxmIEuvs\n1vxdUp/Lf3T+NLfEsbUxVA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "amazon-price@ornate-fragment-353912.iam.gserviceaccount.com",
+  "client_id": "111603522472678333722",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/amazon-price%40ornate-fragment-353912.iam.gserviceaccount.com"
+}
